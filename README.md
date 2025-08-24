@@ -1,4 +1,3 @@
-# FUTURE_FS_02
 
 # Flower Pot Shop (Mini E‑commerce)
 
